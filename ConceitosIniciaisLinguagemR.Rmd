@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Objetivo
 
-Vamos utilizar esse arquivo para abordar conceitos básicos da linguagem R e deixar esses comomandos como Backup para as utilizações diárias ou consultas.O formato será em RMarkDown para exercitar as configurações e esse modelo de apresentação..
+Vamos utilizar esse arquivo para abordar conceitos básicos da linguagem R e deixar esses comomandos como Backup para as utilizações diárias ou consultas.O formato será em RMarkDown para exercitar as configurações e esse modelo de apresentação...
 
 O formato de saída desse arquivo será em .pdf para facilitar posterior impressão ou consulta (mas a opção pode ser alterado em acordo com as opções do RStudio). 
 
